@@ -1,6 +1,6 @@
 # :information_source: Sobre mim 
 
-<p>Me apaixonei por tecnologia no meu primeiro contato com desenvolvimento que foi em 2015 em um curso profissionalizante de Web Design. A fim de me aprofundar nesse universo,em 2017 entrei no curso de Sistemas de Informação no Instituto Federal Goiano - Campus Urutaí, onde estou atualmente cursando o 6° periodo. 
+<p>Me apaixonei por tecnologia no meu primeiro contato com desenvolvimento que foi em 2015 em um curso profissionalizante de Web Design. A fim de me aprofundar nesse universo, em 2017 entrei no curso de Sistemas de Informação no Instituto Federal Goiano - Campus Urutaí, onde estou atualmente cursando o 6° periodo e sou monitor da disciplina de POO. 
 Até o momento, meu maior contato foi com a linguagem Java, e foi com ela que estudei e apliquei os conceitos Estrutura de dados e POO. </p>
 <p>Usando Java, já desenvolvi  diversas aplicações para estudo(desktop, web e mobile).</p>
 <a href="https://www.linkedin.com/in/roberto-martins-531674190/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
