@@ -14,4 +14,4 @@ Até o momento, meu maior contato foi com a linguagem Java, e foi com ela que es
 
 ### :books: Estudando 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/>
