@@ -13,4 +13,4 @@
 
 ### :books: Estudando 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/React%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/>
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
