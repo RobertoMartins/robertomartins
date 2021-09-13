@@ -5,12 +5,6 @@
 
 <p>Atualmente atuo no desenvolvimento fullstack de sistemas web de cliente do setor bancário, com foco nas tecnologias de Java e Angular.</p>
 
-### 💌 Onde me encontrar ⤵️
-<a href="https://www.linkedin.com/in/robertomurilo/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:robertomurilocordeiro@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/robmurilo/" alt="Instagram"><img src="https://img.shields.io/badge/@robmurilo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-
 ### :bulb: Conhecimentos em
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -19,5 +13,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### 💌 Onde me encontrar ⤵️
+<a href="https://www.linkedin.com/in/robertomurilo/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:robertomurilocordeiro@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/robmurilo/" alt="Instagram"><img src="https://img.shields.io/badge/@robmurilo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+
+
 
 
