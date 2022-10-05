@@ -1,9 +1,15 @@
 ### :information_source: Sobre mim 
 
-<p> :computer: :black_heart: Me apaixonei por tecnologia no meu primeiro contato com desenvolvimento que foi em 2015 em um curso profissionalizante de Web Design. A fim de me aprofundar nesse universo, em 2017 entrei no curso de Sistemas de Informação no Instituto Federal Goiano - Campus Urutaí, onde estou atualmente cursando o 8° período.</p>
-<p>Durante toda a graduação, meu maior contato foi com a linguagem Java. Com ela estudei e apliquei os conceitos de programação, desenvolvendo aplicações desktop, web e mobile. Decidi me aprofundar no desenvolvimento web, sendo essa, a minha área de maior interesse.</p>
+<p> Desenvolvedor com 2 anos de experiência atuando no desenvolvimento web, com foco nas tecnologias de Java e
+Angular. Buscando sempre me atualizar e aperfeiçoar os conhecimentos nessas tecnologias e disposto a aprender novas.</p>
 
-<p>Atualmente atuo no desenvolvimento fullstack de sistemas web de cliente do setor bancário, com foco nas tecnologias de Java e Angular.</p>
+ <p>Bacharel em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí, onde tive a oportunidade de
+conhecer a linguagem Java., desenvolvendo aplicações multiplataformas. Decidi me aprofundar no desenvolvimento web,
+sendo essa a minha área de maior interesse.</p>
+
+
+<p>Atualmente co-criando soluções em uma multinacional brasileira, onde atuo no desenvolvimento fullstack de sistemas
+web de cliente do setor bancário, com foco nas tecnologias de Java e Angular</p>
 
 ### :bulb: Conhecimentos em
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
