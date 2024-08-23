@@ -1,6 +1,6 @@
 ### :information_source: Sobre mim 
 
-<p> Desenvolvedor com 2 anos de experiência atuando no desenvolvimento web, com foco nas tecnologias de Java e
+<p> Desenvolvedor com mais de 3 anos de experiência atuando no desenvolvimento web, com foco nas tecnologias de Java e
 Angular. Buscando sempre me atualizar e aperfeiçoar os conhecimentos nessas tecnologias e disposto a aprender novas.</p>
 
  <p>Bacharel em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí, onde tive a oportunidade de
