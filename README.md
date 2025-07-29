@@ -1,15 +1,8 @@
 ### :information_source: Sobre mim 
 
-<p> Desenvolvedor com mais de 3 anos de experiência atuando no desenvolvimento web, com foco nas tecnologias de Java e
-Angular. Buscando sempre me atualizar e aperfeiçoar os conhecimentos nessas tecnologias e disposto a aprender novas.</p>
+<p>Com mais de 4 anos de experiência em desenvolvimento web, atuo com Java e Angular, desenvolvendo soluções para sistemas bancários. Tenho experiência em metodologias ágeis, como Scrum, e em projetos que envolvem APIs REST, integrações de sistemas e interfaces modernas responsivas.
 
- <p>Bacharel em Sistemas de Informação pelo Instituto Federal Goiano - Campus Urutaí, onde tive a oportunidade de
-conhecer a linguagem Java., desenvolvendo aplicações multiplataformas. Decidi me aprofundar no desenvolvimento web,
-sendo essa a minha área de maior interesse.</p>
-
-
-<p>Atualmente co-criando soluções em uma multinacional brasileira, onde atuo no desenvolvimento fullstack de sistemas
-web de cliente do setor bancário, com foco nas tecnologias de Java e Angular</p>
+Busco alinhar qualidade, inovação e eficiência em cada entrega. Minha abordagem combina metodologias ágeis, práticas modernas de desenvolvimento e um compromisso constante com a excelência técnica.</p>
 
 ### :bulb: Conhecimentos em
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
